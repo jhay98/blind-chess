@@ -1,0 +1,7 @@
+{
+  "name": "blind-chess",
+  "description": "",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
